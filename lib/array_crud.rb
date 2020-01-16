@@ -27,7 +27,11 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
+<<<<<<< HEAD
   retrieve_first_element_from_array(array)).to eq("wow")
+=======
+  [array]
+>>>>>>> a85e30154309524558a1ca1dc27bd235ff792bb4
 end
 
 def retrieve_last_element_from_array(array)
